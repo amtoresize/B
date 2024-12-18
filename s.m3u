@@ -1,10 +1,5 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/aa9970eb8f1c44e6b0222dd32019b433/version/6/width/1280/height/720" pltv-name="▶ VOD SOOKA" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="▶ VOD SOOKA", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
-https://playeriptv.com/app
-
 #EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/aa9970eb8f1c44e6b0222dd32019b433/version/6/width/1280/height/720" group-title="▶ VOD SOOKA", 903-Butak(2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1505.mp4
 
